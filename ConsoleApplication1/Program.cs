@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public static int FNum = 5;
         public static int SNum = 5;
-        static string A ="B";
+        static string A ="C";
         static string C = A + "X";
         public static void Main(string[] args)
         {
